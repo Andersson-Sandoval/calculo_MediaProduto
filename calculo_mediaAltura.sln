@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculo_MediaProduto", "calculo_mediaAltura\calculo_MediaProduto.csproj", "{ABD4569E-64A1-473E-B979-651B03A4BFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD4569E-64A1-473E-B979-651B03A4BFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD4569E-64A1-473E-B979-651B03A4BFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD4569E-64A1-473E-B979-651B03A4BFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD4569E-64A1-473E-B979-651B03A4BFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25AF6CED-60B2-4CC6-B755-2A7B687E267B}
+	EndGlobalSection
+EndGlobal
